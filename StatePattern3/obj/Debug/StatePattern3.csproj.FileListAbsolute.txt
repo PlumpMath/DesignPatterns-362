@@ -1,0 +1,6 @@
+C:\Users\zach\Wallmaster\StatePattern3\StatePattern3\bin\Debug\StatePattern3.exe.config
+C:\Users\zach\Wallmaster\StatePattern3\StatePattern3\bin\Debug\StatePattern3.exe
+C:\Users\zach\Wallmaster\StatePattern3\StatePattern3\bin\Debug\StatePattern3.pdb
+C:\Users\zach\Wallmaster\StatePattern3\StatePattern3\obj\Debug\StatePattern3.exe
+C:\Users\zach\Wallmaster\StatePattern3\StatePattern3\obj\Debug\StatePattern3.pdb
+C:\Users\zach\Wallmaster\StatePattern3\StatePattern3\obj\Debug\StatePattern3.csprojResolveAssemblyReference.cache
