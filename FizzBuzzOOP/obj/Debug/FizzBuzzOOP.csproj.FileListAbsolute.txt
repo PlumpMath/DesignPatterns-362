@@ -1,0 +1,6 @@
+C:\Users\zach\Wallmaster\FizzBuzzOOP\FizzBuzzOOP\bin\Debug\FizzBuzzOOP.exe.config
+C:\Users\zach\Wallmaster\FizzBuzzOOP\FizzBuzzOOP\obj\Debug\FizzBuzzOOP.csprojResolveAssemblyReference.cache
+C:\Users\zach\Wallmaster\FizzBuzzOOP\FizzBuzzOOP\bin\Debug\FizzBuzzOOP.exe
+C:\Users\zach\Wallmaster\FizzBuzzOOP\FizzBuzzOOP\bin\Debug\FizzBuzzOOP.pdb
+C:\Users\zach\Wallmaster\FizzBuzzOOP\FizzBuzzOOP\obj\Debug\FizzBuzzOOP.exe
+C:\Users\zach\Wallmaster\FizzBuzzOOP\FizzBuzzOOP\obj\Debug\FizzBuzzOOP.pdb
